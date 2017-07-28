@@ -1,4 +1,4 @@
-* {background-color: black; text-align: center;}
+* {background-color: black; font-family: Verdana;}
 
 h1 {
   font-family: Verdana;
@@ -21,8 +21,10 @@ p {
   font-size: 21px;
   color: gray;
 }
-
-img {
-  image-orientation: center;
+.copyright {
+  text-align: right;
 }
-#copyright {text-align: right;}
+.main,
+.section {
+  text-align: center;
+}
