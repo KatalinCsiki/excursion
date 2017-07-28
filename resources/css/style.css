@@ -16,9 +16,8 @@ h2 {
 
 p {font-size: 21px; color: gray;}
 
-.copyright {
-  text-align: right;
-}
+.copyright {text-align: right;}
+
 .main,
 .section {
   text-align: center;
